@@ -1,0 +1,49 @@
+.msg-val {
+	color: red;
+}
+
+.msg-success {
+	color: green;
+}
+
+body {
+  font-family: Verdana;
+  font-size:12px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, td, th {
+	border: 1px solid black;
+	width: 600px;
+}
+
+.odd {
+	background-color: #FFF;
+}
+
+.even {
+	background-color: #edf2ed;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.warning-bg {
+	background-color: #e8a809;
+}
+
+.normal-bg {
+	background-color: #4CAF50;
+}
+
+.center-align {
+	text-align: center;
+}

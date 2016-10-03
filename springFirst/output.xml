@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animals>
+    <animal>
+        <name>Lion</name>
+        <country_of_origin>Sri Lanka</country_of_origin>
+    </animal>
+</animals>
